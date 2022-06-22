@@ -1,1 +1,1 @@
-Script for all files
+Type of the file

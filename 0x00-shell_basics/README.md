@@ -1,1 +1,1 @@
-Prints absolute  path of current directory
+Displays the content list of a directory

@@ -1,1 +1,1 @@
-change current directore to previous directory
+Script for all files
